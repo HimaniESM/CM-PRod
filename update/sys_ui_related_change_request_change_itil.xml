@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="change_request" version="2" view="change_itil">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Change ITIL" name="change_request" related_list="NULL" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">bc03c81e4f21d74053c240f18110c7ea</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-04-20 11:58:41</sys_created_on>
+            <sys_id>7c03c81e4f21d74053c240f18110c7eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-04-20 11:58:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Change ITIL" name="change_request" related_list="NULL" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">bc03c81e4f21d74053c240f18110c7ea</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_cmdb_ci_service.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-04-20 11:58:41</sys_created_on>
+            <sys_id>f403c81e4f21d74053c240f18110c7ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-04-20 11:58:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Change ITIL" name="change_request" related_list="NULL" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">bc03c81e4f21d74053c240f18110c7ea</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-04-20 11:58:41</sys_created_on>
+            <sys_id>f803c81e4f21d74053c240f18110c7ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-04-20 11:58:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Change ITIL" name="change_request" related_list="NULL" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">bc03c81e4f21d74053c240f18110c7ea</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>change_task.change_request</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-04-20 11:58:41</sys_created_on>
+            <sys_id>fc03c81e4f21d74053c240f18110c7ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-04-20 11:58:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Change ITIL" name="change_request" related_list="NULL" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">bc03c81e4f21d74053c240f18110c7ea</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>problem.rfc</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-04-20 11:58:41</sys_created_on>
+            <sys_id>f003c81e4f21d74053c240f18110c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-04-20 11:58:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Change ITIL" name="change_request" related_list="NULL" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">bc03c81e4f21d74053c240f18110c7ea</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>incident.rfc</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-04-20 11:58:41</sys_created_on>
+            <sys_id>f403c81e4f21d74053c240f18110c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-04-20 11:58:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Change ITIL" name="change_request" related_list="NULL" sys_domain="global" view="55379eae4f8dd70053c240f18110c748">bc03c81e4f21d74053c240f18110c7ea</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>incident.caused_by</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-04-20 11:58:41</sys_created_on>
+            <sys_id>f803c81e4f21d74053c240f18110c7ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-04-20 11:58:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Change Request - Change ITIL</calculated_name>
+            <filter/>
+            <name>change_request</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-04-20 11:58:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc03c81e4f21d74053c240f18110c7ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Change Request - Change ITIL</sys_name>
+            <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+            <sys_update_name>sys_ui_related_change_request_change_itil</sys_update_name>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-04-20 11:58:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Change ITIL" name="change_itil">55379eae4f8dd70053c240f18110c748</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
