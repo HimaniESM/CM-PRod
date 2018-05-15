@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="x_infte_esm_it_cha_environment" label="Environment" language="en" table="change_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_infte_esm_it_cha_environment</element>
+            <help/>
+            <hint/>
+            <label>Environment</label>
+            <language>en</language>
+            <name>change_request</name>
+            <plural>Environments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Kevin_Domadia</sys_created_by>
+            <sys_created_on>2018-05-14 19:11:29</sys_created_on>
+            <sys_id>363c09ce6f829780d69dc8c17c3ee40c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Environment</sys_name>
+            <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+            <sys_update_name>sys_documentation_change_request_x_infte_esm_it_cha_environment_en</sys_update_name>
+            <sys_updated_by>Kevin_Domadia</sys_updated_by>
+            <sys_updated_on>2018-05-14 19:11:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

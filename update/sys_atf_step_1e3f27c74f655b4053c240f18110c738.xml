@@ -2,26 +2,26 @@
 <record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
-        <description>Open the 'Approval' form with id '{{Step 29: Record Query.First record}}'</description>
+        <description>Open the 'Approval' form with id '{{Step 28: Record Query.First record}}'</description>
         <display_name>Open an Existing Record</display_name>
         <inputs/>
         <inputs/>
-        <order>30</order>
+        <order>29</order>
         <step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-23 13:06:18</sys_created_on>
         <sys_id>1e3f27c74f655b4053c240f18110c738</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Open an Existing Record</sys_name>
         <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
         <sys_update_name>sys_atf_step_1e3f27c74f655b4053c240f18110c738</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-23 13:06:18</sys_updated_on>
+        <sys_updated_on>2018-05-15 13:06:12</sys_updated_on>
         <table>sysapproval_approver</table>
-        <test display_value="Normal Change -6">2e7be3c34f655b4053c240f18110c788</test>
+        <test display_value="Normal Change -5">2e7be3c34f655b4053c240f18110c788</test>
         <timeout/>
     </sys_atf_step>
     <sys_variable_value action="delete_multiple" query="document_key=1e3f27c74f655b4053c240f18110c738"/>

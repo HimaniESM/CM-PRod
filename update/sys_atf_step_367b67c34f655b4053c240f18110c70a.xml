@@ -20,7 +20,7 @@
         <sys_updated_by>Amit Kumar</sys_updated_by>
         <sys_updated_on>2018-04-23 12:49:47</sys_updated_on>
         <table>change_task</table>
-        <test display_value="Normal Change -6">2e7be3c34f655b4053c240f18110c788</test>
+        <test display_value="Normal Change -5">2e7be3c34f655b4053c240f18110c788</test>
         <timeout/>
     </sys_atf_step>
     <sys_variable_value action="delete_multiple" query="document_key=367b67c34f655b4053c240f18110c70a"/>

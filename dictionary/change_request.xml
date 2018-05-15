@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Change Request" max_length="40" name="change_request" sizeclass="72" text_index="true" type="collection">
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Change Request" max_length="40" name="change_request" sizeclass="88" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Environment" max_length="40" name="x_infte_esm_it_cha_environment" type="string">
+            <choice>
+                <element label="Production" sequence="0" value="Production"/>
+                <element label="Development" sequence="1" value="Development"/>
+                <element label="QA" sequence="2" value="QA"/>
+                <element label="Test" sequence="3" value="Test"/>
+            </choice>
+        </element>
         <element label="Task Validation" max_length="40" name="x_infte_esm_it_cha_task_validation" read_only="true" type="boolean"/>
     </element>
 </database>
