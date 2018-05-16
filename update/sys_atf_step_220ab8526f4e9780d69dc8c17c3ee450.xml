@@ -68,4 +68,16 @@ With a failure timeout of 5 Seconds</description>
         <table>var__m_atf_input_variable_0270b8005f30220012b44adb7f46666a</table>
         <value>parent={{step['a20ab8526f4e9780d69dc8c17c3ee44d'].record_id}}^EQ</value>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>220ab8526f4e9780d69dc8c17c3ee450</id>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-05-16 05:18:38</sys_created_on>
+        <sys_id>16c068626f46d780d69dc8c17c3ee467</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-05-16 05:18:38</sys_updated_on>
+        <table>var__m_atf_input_variable_0270b8005f30220012b44adb7f46666a</table>
+        <value/>
+    </sys_element_mapping>
 </record_update>
