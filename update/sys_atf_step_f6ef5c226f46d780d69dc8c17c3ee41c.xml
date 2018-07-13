@@ -12,14 +12,14 @@
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-05-16 05:14:50</sys_created_on>
         <sys_id>f6ef5c226f46d780d69dc8c17c3ee41c</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Open an Existing Record</sys_name>
         <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
         <sys_update_name>sys_atf_step_f6ef5c226f46d780d69dc8c17c3ee41c</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-05-16 07:26:27</sys_updated_on>
+        <sys_updated_on>2018-07-13 08:28:46</sys_updated_on>
         <table>change_task</table>
         <test display_value="Emergency Change -2">deef98226f46d780d69dc8c17c3ee451</test>
         <timeout/>
@@ -79,5 +79,17 @@
         <sys_updated_on>2018-05-16 05:14:51</sys_updated_on>
         <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
         <value>{{step['baef5c226f46d780d69dc8c17c3ee407'].first_record}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>view</field>
+        <id>f6ef5c226f46d780d69dc8c17c3ee41c</id>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-07-13 06:53:18</sys_created_on>
+        <sys_id>62a2ebc54f5b174053c240f18110c7a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-13 06:53:18</sys_updated_on>
+        <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
+        <value/>
     </sys_element_mapping>
 </record_update>

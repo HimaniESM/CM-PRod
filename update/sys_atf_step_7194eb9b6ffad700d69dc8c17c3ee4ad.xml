@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>There should be at least one record in 'sys_user' matching a query of
+Roles = approver_user
+and Roles = itil
+With a failure timeout of 5 Seconds</description>
+        <display_name>Record Query</display_name>
+        <inputs/>
+        <order>1</order>
+        <step_config display_value="Record Query">0270b8005f30220012b44adb7f46666a</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-06-25 10:17:24</sys_created_on>
+        <sys_id>7194eb9b6ffad700d69dc8c17c3ee4ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Query</sys_name>
+        <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
+        <sys_update_name>sys_atf_step_7194eb9b6ffad700d69dc8c17c3ee4ad</sys_update_name>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-06-25 10:17:24</sys_updated_on>
+        <table>sys_user</table>
+        <test display_value="Normal Change -3">3da20e4b6fc91b00d69dc8c17c3ee43a</test>
+        <timeout>1970-01-01 00:00:05</timeout>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=7194eb9b6ffad700d69dc8c17c3ee4ad"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>7194eb9b6ffad700d69dc8c17c3ee4ad</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-06-25 10:17:31</sys_created_on>
+        <sys_id>3ec4af9b6ffad700d69dc8c17c3ee435</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-06-25 10:17:31</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="">6fe5f8405f30220012b44adb7f4666e4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>7194eb9b6ffad700d69dc8c17c3ee4ad</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-06-25 10:17:31</sys_created_on>
+        <sys_id>fec4af9b6ffad700d69dc8c17c3ee435</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-06-25 10:17:31</sys_updated_on>
+        <value>roles=approver_user^roles=itil^EQ</value>
+        <variable display_value="">cf167c405f30220012b44adb7f46660d</variable>
+    </sys_variable_value>
+</record_update>

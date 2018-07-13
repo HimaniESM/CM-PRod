@@ -3,8 +3,10 @@
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>Set the values on the form as follows:
-CAB date = 2018-04-18</description>
+CAB date = 2018-12-27
+and Assigned to = {{Step 1: Record Query.First record}}</description>
         <display_name>Set Field Values</display_name>
+        <inputs/>
         <inputs/>
         <order>14</order>
         <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
@@ -12,14 +14,14 @@ CAB date = 2018-04-18</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-11 11:44:09</sys_created_on>
         <sys_id>d749a91b4f91534053c240f18110c775</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
         <sys_update_name>sys_atf_step_d749a91b4f91534053c240f18110c775</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-11 11:44:09</sys_updated_on>
+        <sys_updated_on>2018-06-25 11:31:51</sys_updated_on>
         <table>change_request</table>
         <test display_value="Normal Change -3">3da20e4b6fc91b00d69dc8c17c3ee43a</test>
         <timeout/>
@@ -47,10 +49,23 @@ CAB date = 2018-04-18</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-11 11:44:12</sys_created_on>
         <sys_id>c969ad1b4f91534053c240f18110c7af</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-11 11:44:12</sys_updated_on>
-        <value>cab_date=2018-04-18^EQ</value>
+        <sys_updated_on>2018-06-25 11:27:12</sys_updated_on>
+        <value>cab_date=2018-12-27^assigned_to={{step['7194eb9b6ffad700d69dc8c17c3ee4ad'].first_record}}^EQ</value>
         <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
     </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=d749a91b4f91534053c240f18110c775"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>d749a91b4f91534053c240f18110c775</id>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-04-11 11:44:12</sys_created_on>
+        <sys_id>8569ad1b4f91534053c240f18110c7af</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-06-25 11:27:12</sys_updated_on>
+        <table>var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e</table>
+        <value>cab_date=2018-12-27^assigned_to={{step['7194eb9b6ffad700d69dc8c17c3ee4ad'].first_record}}^EQ</value>
+    </sys_element_mapping>
 </record_update>

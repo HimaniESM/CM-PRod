@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="55ab722a4f011b0053c240f18110c709">ddab722a4f011b0053c240f18110c709</list_id>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="73ccfa2a4f825b8053c240f18110c768">ddab722a4f011b0053c240f18110c709</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>short_description</element>
-            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="55ab722a4f011b0053c240f18110c709">ddab722a4f011b0053c240f18110c709</list_id>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="73ccfa2a4f825b8053c240f18110c768">ddab722a4f011b0053c240f18110c709</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -34,7 +34,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>type</element>
-            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="55ab722a4f011b0053c240f18110c709">ddab722a4f011b0053c240f18110c709</list_id>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="73ccfa2a4f825b8053c240f18110c768">ddab722a4f011b0053c240f18110c709</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -49,7 +49,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="55ab722a4f011b0053c240f18110c709">ddab722a4f011b0053c240f18110c709</list_id>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="73ccfa2a4f825b8053c240f18110c768">ddab722a4f011b0053c240f18110c709</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -64,7 +64,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>start_date</element>
-            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="55ab722a4f011b0053c240f18110c709">ddab722a4f011b0053c240f18110c709</list_id>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="73ccfa2a4f825b8053c240f18110c768">ddab722a4f011b0053c240f18110c709</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -79,7 +79,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>end_date</element>
-            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="55ab722a4f011b0053c240f18110c709">ddab722a4f011b0053c240f18110c709</list_id>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="73ccfa2a4f825b8053c240f18110c768">ddab722a4f011b0053c240f18110c709</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -94,7 +94,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>requested_by</element>
-            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="55ab722a4f011b0053c240f18110c709">ddab722a4f011b0053c240f18110c709</list_id>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="73ccfa2a4f825b8053c240f18110c768">ddab722a4f011b0053c240f18110c709</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
@@ -109,7 +109,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>assigned_to</element>
-            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="55ab722a4f011b0053c240f18110c709">ddab722a4f011b0053c240f18110c709</list_id>
+            <list_id display_value="change_request" element="NULL" name="change_request" parent="NULL" relationship="NULL" sys_domain="global" view="73ccfa2a4f825b8053c240f18110c768">ddab722a4f011b0053c240f18110c709</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
@@ -146,7 +146,7 @@
             <sys_updated_by>kevin_domadia</sys_updated_by>
             <sys_updated_on>2018-03-27 23:32:26</sys_updated_on>
             <sys_user/>
-            <view display_value="Rptd9ab722a4f011b0053c240f18110c706" name="RPTd9ab722a4f011b0053c240f18110c706">55ab722a4f011b0053c240f18110c709</view>
+            <view display_value="Rptd9ab722a4f011b0053c240f18110c706" name="RPTd9ab722a4f011b0053c240f18110c706">73ccfa2a4f825b8053c240f18110c768</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
