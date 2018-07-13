@@ -5,20 +5,20 @@
         <description>Confirm that browser blocks submission of 'Change Request' form to server when clicking UI Action 'Close'.</description>
         <display_name>Click a UI Action</display_name>
         <inputs/>
-        <order>41</order>
+        <order>42</order>
         <step_config display_value="Click a UI Action">0f4a128297202200abe4bb7503ac4af0</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-07-13 08:21:18</sys_created_on>
         <sys_id>bab67b454f9b174053c240f18110c7b5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Click a UI Action</sys_name>
         <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
         <sys_update_name>sys_atf_step_bab67b454f9b174053c240f18110c7b5</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-07-13 08:21:18</sys_updated_on>
+        <sys_updated_on>2018-07-13 09:00:41</sys_updated_on>
         <table>change_request</table>
         <test display_value="Emergency Change -3">d2a2abc54f5b174053c240f18110c773</test>
         <timeout/>

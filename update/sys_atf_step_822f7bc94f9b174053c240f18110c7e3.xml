@@ -2,56 +2,57 @@
 <record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
-        <description>Validate that the form matches the following condition:
-State = Closed
+        <description>There should be at least one record in 'sys_user' matching a query of
+Roles = itil
+and Roles = approver_user
 With a failure timeout of 5 Seconds</description>
-        <display_name>Field Values Validation</display_name>
+        <display_name>Record Query</display_name>
         <inputs/>
-        <order>39</order>
-        <step_config display_value="Field Values Validation">1b97cd31872022008182c9ded0e3ece5</step_config>
+        <order>1</order>
+        <step_config display_value="Record Query">0270b8005f30220012b44adb7f46666a</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Amit Kumar</sys_created_by>
-        <sys_created_on>2018-05-16 05:12:04</sys_created_on>
-        <sys_id>4e4f50ee6f06d780d69dc8c17c3ee4e3</sys_id>
-        <sys_mod_count>12</sys_mod_count>
-        <sys_name>Field Values Validation</sys_name>
+        <sys_created_on>2018-07-13 08:58:24</sys_created_on>
+        <sys_id>822f7bc94f9b174053c240f18110c7e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Query</sys_name>
         <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
-        <sys_update_name>sys_atf_step_4e4f50ee6f06d780d69dc8c17c3ee4e3</sys_update_name>
+        <sys_update_name>sys_atf_step_822f7bc94f9b174053c240f18110c7e3</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
         <sys_updated_on>2018-07-13 08:58:24</sys_updated_on>
-        <table>change_request</table>
+        <table>sys_user</table>
         <test display_value="Emergency Change -1">584f10ee6f06d780d69dc8c17c3ee44e</test>
         <timeout>1970-01-01 00:00:05</timeout>
     </sys_atf_step>
-    <sys_variable_value action="delete_multiple" query="document_key=4e4f50ee6f06d780d69dc8c17c3ee4e3"/>
+    <sys_variable_value action="delete_multiple" query="document_key=822f7bc94f9b174053c240f18110c7e3"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_atf_step</document>
-        <document_key>4e4f50ee6f06d780d69dc8c17c3ee4e3</document_key>
-        <order>200</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>Amit Kumar</sys_created_by>
-        <sys_created_on>2018-05-16 05:12:04</sys_created_on>
-        <sys_id>0a4f50ee6f06d780d69dc8c17c3ee4e4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-05-16 05:12:04</sys_updated_on>
-        <value>state=3^EQ</value>
-        <variable display_value="">4aa838f25320220002c6435723dc34e1</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_atf_step</document>
-        <document_key>4e4f50ee6f06d780d69dc8c17c3ee4e3</document_key>
+        <document_key>822f7bc94f9b174053c240f18110c7e3</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>Amit Kumar</sys_created_by>
-        <sys_created_on>2018-05-16 05:12:04</sys_created_on>
-        <sys_id>ca4f50ee6f06d780d69dc8c17c3ee4e4</sys_id>
+        <sys_created_on>2018-07-13 08:58:27</sys_created_on>
+        <sys_id>045f3fc94f9b174053c240f18110c7db</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-05-16 05:12:04</sys_updated_on>
-        <value>change_request</value>
-        <variable display_value="">a0e13cc35320220002c6435723dc3467</variable>
+        <sys_updated_on>2018-07-13 08:58:27</sys_updated_on>
+        <value>roles=itil^roles=approver_user^EQ</value>
+        <variable display_value="">cf167c405f30220012b44adb7f46660d</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>822f7bc94f9b174053c240f18110c7e3</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit Kumar</sys_created_by>
+        <sys_created_on>2018-07-13 08:58:27</sys_created_on>
+        <sys_id>405f3fc94f9b174053c240f18110c7db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-13 08:58:27</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="">6fe5f8405f30220012b44adb7f4666e4</variable>
     </sys_variable_value>
 </record_update>

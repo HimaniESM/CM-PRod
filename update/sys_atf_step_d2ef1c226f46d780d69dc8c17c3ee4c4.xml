@@ -6,20 +6,20 @@
 CAB required = true</description>
         <display_name>Set Field Values</display_name>
         <inputs/>
-        <order>5</order>
+        <order>6</order>
         <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-05-16 05:14:49</sys_created_on>
         <sys_id>d2ef1c226f46d780d69dc8c17c3ee4c4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
         <sys_update_name>sys_atf_step_d2ef1c226f46d780d69dc8c17c3ee4c4</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-05-16 05:14:49</sys_updated_on>
+        <sys_updated_on>2018-07-13 08:59:45</sys_updated_on>
         <table>change_request</table>
         <test display_value="Emergency Change -2">deef98226f46d780d69dc8c17c3ee451</test>
         <timeout/>
