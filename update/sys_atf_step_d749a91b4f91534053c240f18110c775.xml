@@ -8,20 +8,20 @@ and Assigned to = {{Step 1: Record Query.First record}}</description>
         <display_name>Set Field Values</display_name>
         <inputs/>
         <inputs/>
-        <order>14</order>
+        <order>15</order>
         <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-11 11:44:09</sys_created_on>
         <sys_id>d749a91b4f91534053c240f18110c775</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="ESM IT Change Management" source="x_infte_esm_it_cha">f6fb4de04f8dd30053c240f18110c709</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Change Management">f6fb4de04f8dd30053c240f18110c709</sys_scope>
         <sys_update_name>sys_atf_step_d749a91b4f91534053c240f18110c775</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-06-25 11:31:51</sys_updated_on>
+        <sys_updated_on>2018-07-18 06:08:58</sys_updated_on>
         <table>change_request</table>
         <test display_value="Normal Change -3">3da20e4b6fc91b00d69dc8c17c3ee43a</test>
         <timeout/>
