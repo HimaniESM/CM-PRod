@@ -6,6 +6,7 @@
         <label_cache>[{"name":"e9a8c883-ef11-469a-bd97-7c32551643d1.Record","label":"1➛Change Request Record","reference":"change_request","reference_display":"Change Request","type":"reference","base_type":"reference"},{"name":"Updated_1.current.change_request.number","label":"Trigger➛Change Task Record➛Change request➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"change_request","column_name":"number"}]</label_cache>
         <name>Change task validation (ESM)</name>
         <parent_flow display_value="Change task validation (ESM)">30a5d3986f15db00d69dc8c17c3ee40d</parent_flow>
+        <remote_trigger_id/>
         <status>published</status>
         <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
         <sys_created_by>Kevin_Domadia</sys_created_by>

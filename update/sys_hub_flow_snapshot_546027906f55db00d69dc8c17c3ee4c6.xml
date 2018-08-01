@@ -6,6 +6,7 @@
         <label_cache>[{"name":"60c5ebd1-e183-4538-8785-43d6c09a17cb.Record","label":"1➛Change Request Record","reference":"change_request","reference_display":"Change Request","type":"reference","base_type":"reference"},{"name":"Created_1.current.parent.sys_id","label":"Trigger➛Change Task Record➛Parent➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"task","column_name":"sys_id"},{"name":"Created_1.current.change_request.sys_id","label":"Trigger➛Change Task Record➛Change request➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"change_request","column_name":"sys_id"}]</label_cache>
         <name>Change task validation 2.0 (ESM)</name>
         <parent_flow display_value="Change task validation 2.0 (ESM)">20ff5f506f55db00d69dc8c17c3ee436</parent_flow>
+        <remote_trigger_id/>
         <status>published</status>
         <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
         <sys_created_by>Kevin_Domadia</sys_created_by>

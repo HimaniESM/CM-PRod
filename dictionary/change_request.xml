@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Demande de changement" max_length="40" name="change_request" sizeclass="181" text_index="true" type="collection">
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Demande de changement" max_length="40" name="change_request" sizeclass="195" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Environment" max_length="40" name="x_infte_esm_it_cha_environment" type="string">
             <choice>
                 <element label="Production" sequence="0" value="Production"/>
